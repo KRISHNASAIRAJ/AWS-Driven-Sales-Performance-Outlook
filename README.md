@@ -9,3 +9,4 @@
 * Kinesis Firehose(To Batch Streaming)
 * Lambda
 * Athena
+* S3
