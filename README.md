@@ -72,6 +72,7 @@ The Project aims to establish a robust data pipeline for tracking and analyzing 
 
 * S3 Storage and Crawler
   * Set up S3 as the destination for Kinesis Firehose, storing transformed data in files.
+  * The Sample File is stored in the repostory directory(Output_Sample)
   * S3 Collect buffer interval 60sec
 ![image](https://github.com/KRISHNASAIRAJ/AWS-Driven-Sales-Performance-Outlook/assets/90061814/e4b19b33-0f37-420a-a990-74e4a10917a3)
 ![image](https://github.com/KRISHNASAIRAJ/AWS-Driven-Sales-Performance-Outlook/assets/90061814/abda9849-be22-4163-bd2e-f8575fa187ca)
