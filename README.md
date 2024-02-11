@@ -2,7 +2,8 @@
 
 The Project aims to establish a robust data pipeline for tracking and analyzing sales performance using various AWS services. The process involves creating a DynamoDB database, implementing Change Data Capture (CDC), utilizing Kinesis streams, and finally, storing and querying the data in Amazon Athena.
 
-![Architecture](https://github.com/KRISHNASAIRAJ/AWS-Driven-Sales-Performance-Outlook/assets/90061814/fea78b73-0f89-4d76-8771-e4e844a5bda0)
+![Architecture](https://github.com/KRISHNASAIRAJ/AWS-Driven-Sales-Performance-Outlook/assets/90061814/aeaef6b1-739b-4ace-a834-473b29b78c92)
+
 
 
 ## Technology Used
